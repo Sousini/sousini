@@ -11,9 +11,11 @@ I also love to play video games!
 <a target="_blank" href="https://www.facebook.com/joaoafonso.almeidasousa.3/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 
-<h1> 📈 GitHub Stats </h1> 
+<h1> 📊 GitHub Stats </h1> 
   
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sousini&theme=dark&show_icons=true">
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousini&theme=dark&show_icons=true">
 </p>
+
+
