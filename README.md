@@ -13,5 +13,5 @@ I also love to play video games!
   
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sousini&theme=dark&show_icons=true">
-<img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousini&theme=dark&show_icons=true">
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousini&theme=dark&show_icons=true">
 </p>
