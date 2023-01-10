@@ -6,7 +6,7 @@ I'm a handball player, currently playing in Vitória SC U20. 🤾🏻‍♂️
 I also love to play video games! 
 
 ## Social Networks  
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) (https://www.instagram.com/joao.sousa64/)
 
 
 <!--
