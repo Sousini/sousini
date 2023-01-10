@@ -6,8 +6,8 @@ I'm a handball player, currently playing in Vitória SC U20. 🤾🏻‍♂️
 I also love to play video games! 
 
 ## Social Networks  
-[![Instagram Badge](https://img.shields.io/badge/-João-Sousa?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/joao.sousa64/)] (https://www.instagram.com/joao.sousa64/)
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
 
 <!--
 **Sousini/sousini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
