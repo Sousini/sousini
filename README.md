@@ -19,3 +19,4 @@ I also love to play video games!
 </p>
 
 
+ ![Snake animation](https://github.com/sousini/sousini/blob/output/github-contribution-grid-snake.svg)
