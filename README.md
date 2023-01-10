@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+### My name is João Sousa and I am currently studying Computer Science at University of Minho 
 
 <!--
 **Sousini/sousini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
