@@ -31,7 +31,9 @@
        <!-- Twitter -->
        <a target="_blank" href="https://twitter.com/Joao_Sousa64"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
        <!-- Facebook -->
-       <a target="_blank" href="https://www.facebook.com/joaoafonso.almeidasousa.3/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+       <a target="_blank" href="https://www.facebook.com/joaoafonso.almeidasousa.3/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
+
+</p>
        
 
 🎓 Computer science student at University of Minho 
