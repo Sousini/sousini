@@ -8,7 +8,7 @@
 <br>
 
 
-<!-- Introdução --> 
+<!-- Introduction --> 
 <br>
 <h3 align= "center"> 
        <samp>&gt; Hi there! My name is João Sousa 
