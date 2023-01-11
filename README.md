@@ -54,17 +54,11 @@
        <a><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
        <!-- Adobe Illustrator -->
        <a><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a> 
-   
- 
-       
+</p>   
 
+<br>
 
-  
-  <hr> 
-
-<h1> 
-
-<h1> 📊 GitHub Stats </h1> 
+<h2> 📊 GitHub Stats </h2> 
   
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=sousini&theme=dark&show_icons=true">
