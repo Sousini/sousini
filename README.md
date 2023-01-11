@@ -24,14 +24,14 @@
 
 <h2>&#9778; About me </h2>   
 
-<p align="center">
-       
-       <!-- Instagram -->
-       <a target="_blank" href="https://www.instagram.com/joao.sousa64/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-       <!-- Twitter -->
-       <a target="_blank" href="https://twitter.com/Joao_Sousa64"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-       <!-- Facebook -->
-       <a target="_blank" href="https://www.facebook.com/joaoafonso.almeidasousa.3/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
+
+<p align = "center">       
+<!-- Instagram -->
+<a target="_blank" href="https://www.instagram.com/joao.sousa64/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<!-- Twitter -->
+<a target="_blank" href="https://twitter.com/Joao_Sousa64"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<!-- Facebook -->
+<a target="_blank" href="https://www.facebook.com/joaoafonso.almeidasousa.3/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
 
 </p>
        
