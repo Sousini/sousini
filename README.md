@@ -61,14 +61,12 @@
 <h3>🛠Software and Tools </h3> 
 
 <p>  
-       <!-- Adobe Photoshop -->
-       <a><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></a> 
        <!-- Visual Studio Code --> 
        <a><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
        <!-- GitHub -->
        <a><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-       <!-- Adobe Illustrator -->
-       <a><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a> 
+       <!-- Gimp --> 
+       <a><img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"></a>
 </p>   
 
 <h3> 🎓Learning </h3> 
@@ -80,6 +78,8 @@
       <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
       <!-- JavaScript -->
       <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+      <!-- C --> 
+      <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 </p>
 
 <br>
