@@ -38,7 +38,7 @@
 
 🎓 Computer science student at University of Minho 
 
-🤾🏻‍♂️ Handball player, currently playing in Vitória SC U20 
+🤾🏻‍♂️ Handball player, currently playing in CCR Fermentões U20 
 
 🕹 I also love to play video games  
 
@@ -55,6 +55,11 @@
 <p>
        <!-- Haskell -->
        <a><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"></a> 
+</p>
+
+<p>
+       <!-- C -->
+       <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 </p>
 
 
@@ -78,8 +83,9 @@
       <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
       <!-- JavaScript -->
       <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-      <!-- C --> 
-      <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+       <!-- Python -->
+       <!-- Java -->
+       
 </p>
 
 <br>
