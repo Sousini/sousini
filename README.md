@@ -55,10 +55,9 @@
 <p>
        <!-- Haskell -->
        <a><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"></a> 
-</p>
 
-<p>
-       <!-- C -->
+       <!-- C --> 
+       
        <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 </p>
 
