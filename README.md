@@ -38,8 +38,6 @@
 
 🎓 Computer science student at University of Minho 
 
-🤾🏻‍♂️ Handball player, currently playing in CCR Fermentões U20 
-
 🕹 I also love to play video games  
 
 <br> 
