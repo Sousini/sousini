@@ -1,8 +1,10 @@
 <br>
 <!-- Welcome -->
 <h2 align= "center"> 
+        <samp>
         「Welcome to my GitHub profile」
-    
+        </samp>
+                
 </h2>
 
 <br>
