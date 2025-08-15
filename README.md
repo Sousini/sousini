@@ -48,7 +48,7 @@
 
 <!-- Programming Languages --> 
 
-<h3> 👨🏻‍💻Programming Languages </h3> 
+<h3> 👨🏻‍💻Programming/Markup Languages </h3> 
 
 <p>
        <!-- Haskell -->
@@ -57,6 +57,14 @@
        <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
        <!-- Python -->
        <a><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+       <!-- HTML5 -->
+       <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+       <!-- CSS3 -->
+       <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+       <!-- JavaScript -->
+       <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+       <!-- Java -->
+       <a><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"</a>
 </p>
 
 
@@ -74,14 +82,7 @@
 <h3> 🎓Learning </h3> 
 
 <p>
-      <!-- HTML5 -->
-      <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-      <!-- CSS3 -->
-      <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-      <!-- JavaScript -->
-      <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-      <!-- Java -->
-      <a><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"</a>
+      Right now, I'm focusing on CyberSecurity.
        
 </p>
 
