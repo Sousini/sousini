@@ -36,7 +36,7 @@
 </p>
        
 
-🎓 Computer science student at University of Minho 
+🎓 Computer science graduate from University of Minho 
 
 🕹 I also love to play video games  
 
