@@ -107,4 +107,4 @@
 
 
  
-![Snake animation](https://github.com/sousini/sousini/blob/output/github-contribution-grid-snake.svg)
+
