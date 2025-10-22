@@ -89,7 +89,7 @@
 <h3> 🎓Learning </h3> 
 
 <p>
-      Right now, I'm focusing on CyberSecurity.
+      Right now, I'm focusing on Web development, but I am eager to start my journey in CyberSecurity.
        
 </p>
 
