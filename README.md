@@ -74,7 +74,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sousini&theme=radical" alt="Hoang Son's GitHub Streak" />
