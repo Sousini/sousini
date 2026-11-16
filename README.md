@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=João%20Sousa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20University%20of%20Minho&descAlignY=58&descSize=18" alt="header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=%3E+Hi+there!+My+name+is+Jo%C3%A3o+Sousa;%3E+Computer+Science+graduate+%40+UMinho;%3E+Now+doing+my+MSc+in+Informatics+Engineering;%3E+I+love+C%2C+Haskell+and+solving+problems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=%3E+Hi+there!+My+name+is+Jo%C3%A3o+Sousa;%3E+Computer+Science+graduate+%40+UMinho;%3E+Now+doing+my+MSc+in+Informatics+Engineering" alt="Typing SVG" /></a>
 
 <br>
 
