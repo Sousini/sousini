@@ -78,6 +78,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sousini&theme=radical" alt="Hoang Son's GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangsonww&theme=radical" alt="Hoang Son's GitHub Achievements" />
 </div>
   
 
