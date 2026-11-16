@@ -78,6 +78,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sousini&theme=radical" alt="Hoang Son's GitHub Streak" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Sousini?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" />
 </div>
   
 
