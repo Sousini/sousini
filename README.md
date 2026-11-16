@@ -76,10 +76,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Sousini&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sousini&theme=tokyonight&layout=compact&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sousini&theme=radical" alt="Hoang Son's GitHub Streak" />
+</div>
+  
 
 <div align="center">
 
