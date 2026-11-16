@@ -19,7 +19,7 @@
 
 - 🎓 Computer Science graduate from the **University of Minho**
 - 📚 Currently doing my **MSc in Informatics Engineering (MEI)** at UMinho
-- 💻 Passionate about low-level programming, algorithms and functional programming
+- 🤾🏻‍♂️ Handball Coach | Level 2
 - 🕹 I also love to play video games
 
 ---
