@@ -35,15 +35,28 @@
 
 ## 🚀 Featured projects
 
+### 🎓 Bachelor's degree (LCC)
 
-| Project | Subject | Link |
-| :------ | :------ | :--: |
-| **Projeto-SO** | Sistemas Operativos (C) | [🔗 Open](https://github.com/Sousini/Projeto-SO) |
-| **LA-Project** | Laboratórios de Algoritmia (C) | [🔗 Open](https://github.com/Sousini/LA-Project) |
-| **Donut-Hunt** | Laboratórios de Algoritmia (C), fork of [pedroacamargo/Donut-Hunt](https://github.com/pedroacamargo/Donut-Hunt) | [🔗 Open](https://github.com/Sousini/Donut-Hunt) |
-| **Projeto-CG** | Computação Gráfica | [🔗 Open](https://github.com/Sousini/Projeto-CG) |
-| **Base de Dados** | Olympic Games database project | [🔗 Open](https://github.com/Sousini/University/tree/main/3ano/BD/jogosolimpicos) |
-| **Projeto Final** | Final project of the Bachelor's degree | [🔗 Open](https://github.com/Sousini/Projeto-Final-web) |
+| Year | Project | Subject | Link |
+| :--: | :------ | :------ | :--: |
+| 1st | **LA-Project** | Laboratórios de Algoritmia (C) | [🔗 Open](https://github.com/Sousini/LA-Project) |
+| 1st | **Donut-Hunt** | Laboratórios de Algoritmia (C), fork of [pedroacamargo/Donut-Hunt](https://github.com/pedroacamargo/Donut-Hunt) | [🔗 Open](https://github.com/Sousini/Donut-Hunt) |
+| 2nd | **Projeto-SO** | Sistemas Operativos (C) | [🔗 Open](https://github.com/Sousini/Projeto-SO) |
+| 2nd | **Cálculo de Programas** | Cálculo de Programas | [🔗 Open](https://github.com/Sousini/University/tree/main/2ano/CP) |
+| 3rd | **Base de Dados** | Olympic Games database project | [🔗 Open](https://github.com/Sousini/University/tree/main/3ano/BD/jogosolimpicos) |
+| 3rd | **Projeto-CG** | Computação Gráfica | [🔗 Open](https://github.com/Sousini/Projeto-CG) |
+| 3rd | **Projeto Final** | Final project of the Bachelor's degree | [🔗 Open](https://github.com/Sousini/Projeto-Final-web) |
+
+### 🧠 Master's degree (MEI)
+
+<!--
+Add your master's projects here, one row each. Template:
+| 1st | **Project name** | Subject (language) | [🔗 Open](https://github.com/Sousini/MEI/tree/main/Ano1/NomeDaPasta) |
+-->
+
+| Year | Project | Subject | Link |
+| :--: | :------ | :------ | :--: |
+| 1st | 🚧 _Coming soon_ | Projects will be listed here as they are completed | [🔗 MEI repo](https://github.com/Sousini/MEI) |
 
 ---
 
