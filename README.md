@@ -36,32 +36,6 @@
 
 ## 🚀 Featured projects
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Sousini/Projeto-SO">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sousini&repo=Projeto-SO&theme=tokyonight&hide_border=true" alt="Projeto-SO" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Sousini/LA-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sousini&repo=LA-Project&theme=tokyonight&hide_border=true" alt="LA-Project" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Sousini/Projeto-CG">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sousini&repo=Projeto-CG&theme=tokyonight&hide_border=true" alt="Projeto-CG" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Sousini/Projeto-Final-web">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sousini&repo=Projeto-Final-web&theme=tokyonight&hide_border=true" alt="Projeto-Final-web" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 | Project | Subject | Link |
 | :------ | :------ | :--: |
