@@ -52,9 +52,9 @@
 
 | Year | Project | Subject | Link |
 | :--: | :------ | :------ | :--: |
-| 1st | ESR | Engenharia de Serviços em Rede | [🔗 ESR repo](https://github.com/Sousini/MEI) |
-| 1st | RAS | Requisitos e Arquitetura de Software | [🔗 RAS repo](https://github.com/Sousini/MEI) |
-| 1st | QoSI | Qualidade de Serviço de Internet | [🔗 QoSI repo](https://github.com/Sousini/MEI) |
+| 1st | ESR | Engenharia de Serviços em Rede | [🔗 ESR repo](https://github.com/PatzCM/ESR_TP2_26-27) |
+| 1st | RAS | Requisitos e Arquitetura de Software | [🔗 RAS repo](https://github.com/icsousa/RAS) |
+| 1st | QoSI | Qualidade de Serviço de Internet | [🔗 QoSI repo](https://github.com/icsousa/QoSI) |
 
 
 
