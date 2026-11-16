@@ -49,14 +49,14 @@
 
 ### 🧠 Master's degree (MEI)
 
-<!--
-Add your master's projects here, one row each. Template:
-| 1st | **Project name** | Subject (language) | [🔗 Open](https://github.com/Sousini/MEI/tree/main/Ano1/NomeDaPasta) |
--->
 
 | Year | Project | Subject | Link |
 | :--: | :------ | :------ | :--: |
-| 1st | 🚧 _Coming soon_ | Projects will be listed here as they are completed | [🔗 MEI repo](https://github.com/Sousini/MEI) |
+| 1st | ESR | Engenharia de Serviços em Rede | [🔗 ESR repo](https://github.com/Sousini/MEI) |
+| 1st | RAS | Requisitos e Arquitetura de Software | [🔗 RAS repo](https://github.com/Sousini/MEI) |
+| 1st | QoSI | Qualidade de Serviço de Internet | [🔗 QoSI repo](https://github.com/Sousini/MEI) |
+
+
 
 ---
 
