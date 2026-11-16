@@ -28,7 +28,7 @@
 
 | 📘 Repository | 📝 What you'll find |
 | :------------ | :------------------ |
-| [**University**](https://github.com/Sousini/University) | My **Bachelor's degree** journey (1st to 3rd year): subjects, exercises and projects, with a table linking every UC |
+| [**LCC**](https://github.com/Sousini/University) | My **Bachelor's degree** journey (1st to 3rd year): subjects, exercises and projects, with a table linking every UC |
 | [**MEI**](https://github.com/Sousini/MEI) | My **Master's degree** (MEI): coursework and projects, organized by year |
 | [**Self-Learning**](https://github.com/Sousini/Self-Learning) | Things I learn on my own (Java) |
 
